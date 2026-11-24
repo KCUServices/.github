@@ -14,6 +14,7 @@ Aqui ficam as ferramentas que construímos para o nosso próprio dia a dia, e a 
 | [kcu-stack](https://github.com/KCUServices/kcu-stack) | O nosso setup completo: máquinas, Proxmox, IA e as apps que usamos todos os dias, com as definições que funcionam. |
 | [kcu-automaticos](https://github.com/KCUServices/kcu-automaticos) | Os scripts que mantêm os nossos PCs Windows a funcionar sozinhos: limpar RAM, desligar à noite, manutenção, vigia de serviços. |
 | [kcu-ia-local](https://github.com/KCUServices/kcu-ia-local) | IA a correr em casa: servidor de transcrição compatível com a OpenAI, Qwen em português de Portugal no Ollama e um pipeline imagem → vídeo no ComfyUI. |
+| [kcu-automacoes](https://github.com/KCUServices/kcu-automacoes) | Automações com aprovação no Discord: a IA prepara correções a partir de pedidos no GitHub, webhooks por um Cloudflare Worker e workflows n8n. Nada importante acontece sem um clique nosso. |
 
 Pega, aprende e adapta ao teu. Licença [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0): uso pessoal à vontade; para vender ou usar num negócio, fala connosco. O nome KCU, os logótipos e as imagens dos produtos são nossos, com todos os direitos reservados ([marca e imagens](https://github.com/KCUServices/.github/blob/main/MARCA.md)).
 
