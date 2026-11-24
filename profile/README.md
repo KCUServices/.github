@@ -10,6 +10,13 @@ Aqui ficam as ferramentas que construímos para o nosso próprio dia a dia, e a 
 |---|---|
 | [kcu-window](https://github.com/KCUServices/kcu-window) | Abre uma app do teu PC Windows no browser (telemóvel ou outro PC), sem ambiente de trabalho remoto. Mostra só a janela dessa app. |
 | [kcu-stack](https://github.com/KCUServices/kcu-stack) | O nosso setup completo: máquinas, Proxmox, IA e as apps que usamos todos os dias, com as definições que funcionam. |
+| [kcu-automaticos](https://github.com/KCUServices/kcu-automaticos) | Os scripts que mantêm os nossos PCs Windows a funcionar sozinhos: limpar RAM, desligar à noite, manutenção, vigia de serviços. |
+
+## Em destaque
+
+🎬 **[KCU Estúdio](https://github.com/KCUServices/kcu-estudio)**: o nosso estúdio de vídeo com IA, a correr no nosso PC. Filmes longos, shorts, o teu canal e ebooks, da ideia ao vídeo pronto.
+
+[![KCU Estúdio](https://raw.githubusercontent.com/KCUServices/kcu-estudio/main/img/inicio.png)](https://github.com/KCUServices/kcu-estudio)
 
 Pega, aprende e adapta ao teu. Licença [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0): uso pessoal à vontade; para vender ou usar num negócio, fala connosco.
 
