@@ -1,0 +1,41 @@
+name: Algo não funciona
+description: Encontraste um erro numa ferramenta.
+labels: ["erro"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Nunca coloques aqui chaves, senhas, IPs ou endereços teus.** Problemas de segurança não vêm para aqui: vê o SECURITY.md.
+  - type: textarea
+    id: oque
+    attributes:
+      label: O que aconteceu?
+    validations:
+      required: true
+  - type: textarea
+    id: esperado
+    attributes:
+      label: O que esperavas que acontecesse?
+  - type: textarea
+    id: passos
+    attributes:
+      label: Passos para repetir
+      placeholder: "1. Abri...\n2. Carreguei em...\n3. Apareceu..."
+    validations:
+      required: true
+  - type: input
+    id: versao
+    attributes:
+      label: Versão ou episódio
+      placeholder: "ex.: ep03 ou v0.1.0"
+  - type: input
+    id: sistema
+    attributes:
+      label: Sistema
+      placeholder: "ex.: Windows 11 24H2, Chrome no Android"
+  - type: textarea
+    id: registo
+    attributes:
+      label: Registo (log), se houver
+      description: Apaga dele qualquer IP, chave ou caminho com o teu nome.
+      render: text

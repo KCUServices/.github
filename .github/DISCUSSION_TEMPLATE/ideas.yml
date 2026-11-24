@@ -1,0 +1,33 @@
+title: "[Ideia] "
+labels: ["ideia"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado! As ideias que entram nas ferramentas aparecem no CHANGELOG com o teu nome de utilizador e o episódio em que foram feitas.
+  - type: dropdown
+    id: ferramenta
+    attributes:
+      label: Para que ferramenta?
+      options:
+        - kcu-window
+        - kcu-stack (o nosso setup)
+        - Outra / nova ferramenta
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: Que problema resolve?
+      description: Conta o que te aconteceu ou o que te faz falta. O problema é mais importante do que a solução.
+    validations:
+      required: true
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Como imaginas que funcionava?
+  - type: input
+    id: episodio
+    attributes:
+      label: Viste isto em algum episódio? (opcional)
+      placeholder: "ex.: Ep. 3, minuto 12"

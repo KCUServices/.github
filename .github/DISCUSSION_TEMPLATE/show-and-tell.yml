@@ -1,0 +1,17 @@
+title: "[O meu setup] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Mostra como adaptaste uma ferramenta ao teu setup. Os melhores aparecem nos vídeos.
+        **Antes de pores prints, tapa IPs, nomes de rede, chaves e endereços.**
+  - type: textarea
+    id: setup
+    attributes:
+      label: O que montaste e como
+    validations:
+      required: true
+  - type: textarea
+    id: mudancas
+    attributes:
+      label: O que mudaste em relação ao original?

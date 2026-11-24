@@ -2,13 +2,23 @@
 
 **Segurança, rede e apps que usamos em casa.**
 
-Aqui ficam as ideias que vamos construindo para o nosso próprio dia a dia. O código é aberto e de graça: pega, aprende e adapta ao teu.
+Aqui ficam as ferramentas que construímos para o nosso próprio dia a dia, e a forma como montámos tudo. Fazemos isto à frente de toda a gente, em vídeos sem cortes: vocês dizem o que falta e nós melhoramos.
 
-## Código aberto (de graça)
+## Código aberto (de graça para uso pessoal)
 
 | Projeto | O que é |
 |---|---|
-| [kcu-window](https://github.com/KCUServices/kcu-window) | Abre uma app do teu PC Windows no browser (telemóvel ou outro PC), sem ambiente de trabalho remoto. Mostra só a janela dessa app. É uma ideia de como fizemos o nosso, não um produto com suporte. |
+| [kcu-window](https://github.com/KCUServices/kcu-window) | Abre uma app do teu PC Windows no browser (telemóvel ou outro PC), sem ambiente de trabalho remoto. Mostra só a janela dessa app. |
+| [kcu-stack](https://github.com/KCUServices/kcu-stack) | O nosso setup completo: máquinas, Proxmox, IA e as apps que usamos todos os dias, com as definições que funcionam. |
+
+Pega, aprende e adapta ao teu. Licença [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0): uso pessoal à vontade; para vender ou usar num negócio, fala connosco.
+
+## Comunidade
+
+- 💡 **Ideias e melhorias:** [Discussions → Ideas](https://github.com/orgs/KCUServices/discussions/categories/ideas). As que entram ficam no CHANGELOG com o teu nome.
+- ❓ **Perguntas:** [Discussions → Q&A](https://github.com/orgs/KCUServices/discussions/categories/q-a)
+- 🖥️ **Mostra o teu setup:** [Discussions → Show and tell](https://github.com/orgs/KCUServices/discussions/categories/show-and-tell)
+- 🐞 **Algo não funciona:** abre uma *issue* no repositório da ferramenta.
 
 ## Produtos
 

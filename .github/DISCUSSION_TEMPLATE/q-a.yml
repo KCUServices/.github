@@ -1,0 +1,31 @@
+title: "[Pergunta] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de perguntar, vê o FAQ do README da ferramenta: muitas respostas já lá estão.
+        **Nunca coloques aqui chaves, senhas, IPs ou endereços teus.**
+  - type: dropdown
+    id: ferramenta
+    attributes:
+      label: Sobre que ferramenta?
+      options:
+        - kcu-window
+        - kcu-stack (o nosso setup)
+        - Outra
+    validations:
+      required: true
+  - type: textarea
+    id: pergunta
+    attributes:
+      label: A tua pergunta
+    validations:
+      required: true
+  - type: textarea
+    id: tentaste
+    attributes:
+      label: O que já tentaste?
+  - type: input
+    id: sistema
+    attributes:
+      label: Sistema (Windows 11, Proxmox 8, ...)

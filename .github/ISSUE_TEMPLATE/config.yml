@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Tenho uma pergunta
+    url: https://github.com/orgs/KCUServices/discussions/categories/q-a
+    about: Perguntas vão para as Discussions, onde toda a gente aprende com a resposta.
+  - name: Tenho uma ideia
+    url: https://github.com/orgs/KCUServices/discussions/categories/ideas
+    about: Ideias e melhorias, também nas Discussions.
+  - name: Quero isto pronto ou com ajuda
+    url: https://whop.com/kcu-services/
+    about: Produtos e Assistência KCU na loja.
